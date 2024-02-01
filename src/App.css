@@ -1,0 +1,20 @@
+
+
+body{
+  background: #111315;
+}
+
+
+
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.menu{
+  border-radius: 10px;
+  background: #1B1D1F;
+  height: 650px;
+  width: 1200px;
+}
